@@ -6,10 +6,10 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sn2606/TravelLog"></a>
     <br />
     ·
-    <a href="https://github.com/sn2606/TravelLog/issues">Report Bug</a>
+    <a href="https://github.com/sn2606/TravelLog/issues"></a>
   
   </p>
 </p>
