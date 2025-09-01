@@ -5,16 +5,15 @@
   <h3 align="center">TravelLog</h3>
 
   <p align="center">
-    Social Network website for sharing travel experiences & travel micro-blogging.
     <br />
-    <!-- <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a> -->
+    <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a>
     <br />
     <!-- <br /> -->
     <a href="https://github.com/sn2606/TravelLog">View Demo</a>
     ·
     <a href="https://github.com/sn2606/TravelLog/issues">Report Bug</a>
     ·
-    <!-- <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a> -->
+    <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a>
   </p>
 </p>
 
