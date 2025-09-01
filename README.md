@@ -5,10 +5,8 @@
   <h3 align="center">TravelLog</h3>
 
   <p align="center">
-    <br />
     <a href="https://github.com/sn2606/TravelLog"></a>
     <br />
-    ·
     <a href="https://github.com/sn2606/TravelLog/issues"></a>
   
   </p>
