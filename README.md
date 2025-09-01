@@ -8,12 +8,9 @@
     <br />
     <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a>
     <br />
-    <!-- <br /> -->
-    <a href="https://github.com/sn2606/TravelLog">View Demo</a>
     ·
     <a href="https://github.com/sn2606/TravelLog/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a>
+  
   </p>
 </p>
 
