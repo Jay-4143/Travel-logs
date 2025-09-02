@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/sn2606/TravelLog"></a>
     <br />
-    <a href="https://github.com/sn2606/TravelLog/issues"></a>
+<!--     <a href="https://github.com/sn2606/TravelLog/issues"></a> -->
   
   </p>
 </p>
