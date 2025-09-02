@@ -20,7 +20,6 @@
 [![Product Name Screen Shot]](https://example.com)
 
 
-![product-screenshot]
 
 
 ### Built With
