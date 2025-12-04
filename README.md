@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** sn2606, TravelLog, LinkedIn, swaranjananayak@gmail.com, TravelLog, Social Network website for sharing travel experiences & travel micro-blogging.
+*** Jay-4143, TravelLog, LinkedIn, vasanijay72@gmail.com, TravelLog, Social Network website for sharing travel experiences & travel micro-blogging.
 -->
 
 
@@ -40,14 +40,14 @@
   <p align="center">
     Social Network website for sharing travel experiences & travel micro-blogging.
     <br />
-    <!-- <a href="https://github.com/sn2606/TravelLog"><strong>Explore the docs »</strong></a> -->
+    <!-- <a href="https://github.com/Jay-4143/Travel-logs"><strong>Explore the docs »</strong></a> -->
     <br />
     <!-- <br /> -->
-    <!-- <a href="https://github.com/sn2606/TravelLog">View Demo</a> -->
+    <!-- <a href="https://github.com/Jay-4143/Travel-logs">View Demo</a> -->
     ·
     <a href="https://github.com/Jay-4143/Travel-logs">Report Bug</a>
     ·
-    <!-- <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a> -->
+    <!-- <a href="https://github.com/Jay-4143/Travel-logs/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -115,7 +115,7 @@ To get a local copy up and running follow these simple steps.
 3. Import the [Database](https://github.com/Jay-4143/Travel-logs/blob/main/Database/travellog.sql)
 4. Clone the repository in any folder and name folder as per choice.
     ```
-    git clone git@github.com:sn2606/TravelLog.git your-folder-name
+    git clone git@github.com:Jay-4143/Travel-Logs.git your-folder-name
     ```
 5. Start XAMPP servers - Apache and MySQL
 6. Start PHP development server (at port of your choice) in Folder Directory via command line
