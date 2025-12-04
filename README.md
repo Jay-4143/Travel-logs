@@ -45,7 +45,7 @@
     <!-- <br /> -->
     <!-- <a href="https://github.com/sn2606/TravelLog">View Demo</a> -->
     ·
-    <a href="https://github.com/sn2606/TravelLog/issues">Report Bug</a>
+    <a href="https://github.com/Jay-4143/Travel-logs">Report Bug</a>
     ·
     <!-- <a href="https://github.com/sn2606/TravelLog/issues">Request Feature</a> -->
   </p>
@@ -112,7 +112,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Start XAMPP and open phpMyAdmin on browser.
 2. Create a new database for the project and name it "travellog"
-3. Import the [Database](https://github.com/sn2606/TravelLog/blob/master/Database/travellog.sql)
+3. Import the [Database](https://github.com/Jay-4143/Travel-logs/blob/main/Database/travellog.sql)
 4. Clone the repository in any folder and name folder as per choice.
     ```
     git clone git@github.com:sn2606/TravelLog.git your-folder-name
@@ -140,9 +140,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- CONTACT -->
 ## Contact
 
-Swaranjana Nayak - [@LinkedIn](https://www.linkedin.com/in/swaranjana-nayak/) - swaranjananayak@gmail.com
+Vasani Jay - [@LinkedIn](https://www.linkedin.com/in/jay-vasani-216161252/) - vasanijay72@gmail.com
 
-Project Link: [https://github.com/sn2606/TravelLog](https://github.com/sn2606/TravelLog)
+Project Link: [https://github.com/Jay-4143/Travel-logs](https://github.com/Jay-4143/Travel-logs)
 
 
 
