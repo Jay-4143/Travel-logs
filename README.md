@@ -161,4 +161,4 @@ Project Link: [https://github.com/Jay-4143/Travel-logs](https://github.com/Jay-4
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/swaranjana-nayak/
 [Product Name Screen Shot]: Images/Landing-Page-SS.png
-[product-screenshot]: Images/about-us-rec.gif
+
